@@ -12,7 +12,7 @@ The goal of this project is to build a classifier model identifying duplicate qu
 <img width="594" alt="EDA6" src="https://user-images.githubusercontent.com/78861401/166839409-f4797529-ccd8-4a44-ac60-87ac48215e19.png">
 <img width="587" alt="EDA7" src="https://user-images.githubusercontent.com/78861401/166839410-22a00c0a-586c-4513-bdb8-1304ecfe7691.png">
 
-## Workflow
+## Feature Engineering
 <img width="858" alt="workflow" src="https://user-images.githubusercontent.com/78861401/166839424-c3aa45e0-c6f8-41ea-a03e-6ae0de3d04dd.png">
 
 ## Result
@@ -20,3 +20,16 @@ The goal of this project is to build a classifier model identifying duplicate qu
 <img width="760" alt="result02" src="https://user-images.githubusercontent.com/78861401/166839467-9dba17f1-51ab-471d-8247-ec95e857f5ba.png">
 <img width="781" alt="result03" src="https://user-images.githubusercontent.com/78861401/166839469-777551fc-f8c9-4f88-823b-52e4462393de.png">
 <img width="649" alt="result04" src="https://user-images.githubusercontent.com/78861401/166839470-1c702053-3b3d-4743-9513-9996a8e90bf9.png">
+
+## Tech Stack
+- numpy/pandas
+- sklearn
+- matplotlib
+- nltk
+- TF-IDF
+- LogisticRegression
+- RandomForestClassifier
+- SGDClassifier
+- CalibratedClassifierCV
+- tensorflow
+- keras
